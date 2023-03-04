@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Cliend/Cliend.iml" filepath="$PROJECT_DIR$/Cliend/Cliend.iml" />
       <module fileurl="file://$PROJECT_DIR$/CloudConfigServierTest/CloudConfigServierTest.iml" filepath="$PROJECT_DIR$/CloudConfigServierTest/CloudConfigServierTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animal/animal.iml" filepath="$PROJECT_DIR$/animal/animal.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/config.iml" filepath="$PROJECT_DIR$/.idea/config.iml" />
     </modules>
   </component>

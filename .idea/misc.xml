@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/Cliend/pom.xml" />
         <option value="$PROJECT_DIR$/CloudConfigServierTest/pom.xml" />
+        <option value="$PROJECT_DIR$/animal/pom.xml" />
       </list>
     </option>
   </component>
